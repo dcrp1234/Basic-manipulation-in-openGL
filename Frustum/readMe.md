@@ -1,4 +1,4 @@
-#Program shows creation of a frustum with OpenGL.
+# Program shows creation of a frustum with OpenGL.
 
 compile using keywords:
 make all or make
